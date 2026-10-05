@@ -16,7 +16,7 @@ I build tools for Salesforce Marketing Cloud, Data Cloud and Personalization. La
 
 **Marketing Cloud developer tools**
 
-- [sfmc-chrome-addon-2023](https://github.com/matheswarwan/sfmc-chrome-addon-2023): a Chrome extension that keeps a version history of Content Builder saves.
+- [SFMC Query Saver](https://chromewebstore.google.com/detail/sfmc-query-saver/bkajbggginfjnjhaiififajmncgdneli) (Chrome Web Store): saves every Query Studio query, lints and runs SQL, and keeps a version history of Content Builder emails that you can revert to.
 - [MjmlRender](https://github.com/matheswarwan/MjmlRender): write MJML in a Content Builder block and get email-safe HTML as you type.
 - [sfmc-two-way-mobile-chat](https://github.com/matheswarwan/sfmc-two-way-mobile-chat): a two-way SMS conversation console for Marketing Cloud messaging.
 - [Renderly](https://github.com/matheswarwan/Renderly): email rendering previews in real clients, without a Litmus subscription.
